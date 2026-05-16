@@ -1,0 +1,17 @@
+# local.properties — NEVER commit this file to git (already in .gitignore).
+# Copy this file to local.properties and fill in real values.
+#
+# The Maps API key is injected into AndroidManifest.xml at build time
+# via manifestPlaceholders["MAPS_API_KEY"] in app/build.gradle.kts.
+# Without it, every Google Maps screen shows a blank gray tile or crashes.
+#
+# 1. Go to https://console.cloud.google.com/ → APIs & Services → Credentials
+# 2. Create or copy an API key restricted to:
+#    - Maps SDK for Android  (package: com.golden.goldencare)
+#    - SHA-1 fingerprint of your release keystore
+# 3. Paste the key below.
+
+MAPS_API_KEY=YOUR_GOOGLE_MAPS_API_KEY_HERE
+
+# Flutter SDK path (set automatically by flutter tool — do not edit manually)
+# flutter.sdk=/path/to/flutter

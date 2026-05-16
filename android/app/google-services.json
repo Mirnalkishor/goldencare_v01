@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "143097198020",
+    "project_id": "golden-care-d4863",
+    "storage_bucket": "golden-care-d4863.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143097198020:android:d87719bd3960d5275b2091",
+        "android_client_info": {
+          "package_name": "com.golden.goldencare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143097198020-a1ai4cljtv2pbun8vtbn6m6rckjobd6a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.golden.goldencare",
+            "certificate_hash": "3b5a0f8f55ed929b9b1e182723fe1b5471fef600"
+          }
+        },
+        {
+          "client_id": "143097198020-v96d8buj69sj99fpls0u9q2panfl5ovb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0hNMRDfRO9X1rJ1Vw1d_ut-adYLgjfdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143097198020-v96d8buj69sj99fpls0u9q2panfl5ovb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
