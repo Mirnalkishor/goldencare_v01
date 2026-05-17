@@ -40,7 +40,7 @@ app.*.map.json
 # *.keystore
 # *.jks
 # google-services.json
-# .env
+.env
 # .env.*
 
 # Signing and secrets — NEVER commit these
